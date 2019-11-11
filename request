@@ -1,0 +1,4 @@
+1. split audio from video
+# install software: ffmpeg (read audio file)
+	+ sudo apt install ffmpeg
+
